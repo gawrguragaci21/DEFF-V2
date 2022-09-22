@@ -1,7 +1,7 @@
 {
-  "name": "DEFF",
+  "name": "Hezxrky",
   "version": "0.0.1",
-  "description": "DEFFBOTZ",
+  "description": "HexzrkyMD",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Denis",
+  "author": "Fiixly",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
